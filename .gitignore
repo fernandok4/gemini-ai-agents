@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# But not the .gitignore file itself
+!.gitignore
+
+# And not the commands directory
+!commands/
+!setup-project.sh
